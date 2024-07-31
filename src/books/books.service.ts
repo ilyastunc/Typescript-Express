@@ -1,0 +1,1 @@
+//database işlemleri burada yapılır. models'deki modeller buraya import edilir.

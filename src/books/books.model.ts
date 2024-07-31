@@ -1,0 +1,1 @@
+// db tabloları burada tanımlanır.
